@@ -5,17 +5,17 @@ Live Demo : [Taskify V2](https://taskifyv2-final.onrender.com/)
 Note: The application may take a few seconds to load due to the free-tier deployment on Render.      
 
 ## Features
-Persistent Data Storage: Todos are securely stored and retrieved from MongoDB.   
-User-Friendly Interface: Simplified and intuitive task management.   
-Cross-Browser Compatibility: Works across major browsers.   
-Scalable Backend: Powered by Express.js and MongoDB.   
-Real-Time Updates: Dynamic updates to the UI without refreshing the page.   
+**Persistent Data Storage:** Todos are securely stored and retrieved from MongoDB.   
+**User-Friendly Interface:** Simplified and intuitive task management.   
+**Cross-Browser Compatibility:** Works across major browsers.   
+**Scalable Backend:** Powered by Express.js and MongoDB.   
+**Real-Time Updates:** Dynamic updates to the UI without refreshing the page.   
 
 ## Tech Stack   
-Frontend: React.js   
-Backend: Node.js, Express.js   
-Database: MongoDB   
-Deployment: Render  
+**Frontend:** React.js   
+**Backend:** Node.js, Express.js   
+**Database:** MongoDB   
+**Deployment:** Render  
 
 ## Project Structure 📁
 
