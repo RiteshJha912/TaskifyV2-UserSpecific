@@ -42,7 +42,7 @@ Taskify-V2/
 │   ├── routes.js            # API routes for CRUD operations
 │   └── package.json         # Server-side dependencies and scripts
 │
-└── README.md                # Project documentation
+└── README.md               
 
 ```
 
