@@ -48,5 +48,5 @@ Taskify-V2/
 
 
 ## Wanna Collaborate?  
-Have ideas to improve Taskify-V2? Let's make it even better together!    
-Drop me a message at ritesh.exe@proton.me
+Have ideas to improve Taskify-V2? Let's make it even better together!      
+Drop me a message at **ritesh.exe@proton.me**
