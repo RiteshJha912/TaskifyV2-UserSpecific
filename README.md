@@ -2,7 +2,7 @@
 
 Live Demo : [Taskify V2](https://taskifyv2-final.onrender.com/)    
 
-Note: The application may take a few seconds to load due to the free-tier deployment on Render.      
+Note: The application may take a few seconds to load due to the free-tier deployment of onRender.      
 
 ## Features
 **Persistent Data Storage:** Todos are securely stored and retrieved from MongoDB.   
